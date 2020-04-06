@@ -1,10 +1,4 @@
-# Algorithms-for-Big-Data
-Implementation of algorithms for big data in Python
-
-# Algorithms
-1. Local Sensitive Hashing (LSH)
-
-# Description of LSH
+# Locality-Sensitive Hashing (LSH)
 LSH is an algorithm for finding similar items (pairs) in a large dataset. I have already uploaded a dataset with movies from kaggle,
 which You can download and test the algorithm.
 Imagine You have a very large number of documents stored in your computer (GBs) and You want to find similar pairs of those documents.
