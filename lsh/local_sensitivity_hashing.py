@@ -5,7 +5,7 @@ import numpy as np
 import random as rand
 import time
 
-ratings_filepath = 'D:\\ratings.csv'
+ratings_filepath = 'Database/ratings.csv'
 user_id_column = 0
 movie_id_column = 1
 
